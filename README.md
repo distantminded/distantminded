@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**distantminded/distantminded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Here is a little information about me:
 
 - 🔭 I’m currently working on some projects
